@@ -15,8 +15,8 @@
     "npm packages",
     "boilerplate"
   ],
-  "author": "Dale Nguyen",
-  "license": "ISC",
+  "author": "Rachmad Syaefullah",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dalenguyen/typescript-package-starter.git"
