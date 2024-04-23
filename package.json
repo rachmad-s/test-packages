@@ -1,5 +1,5 @@
 {
-  "name": "typescript-package-starter",
+  "name": "test-packages",
   "version": "1.1.0",
   "description": "TypeScript boilerplate for NPM or Github Packages",
   "main": "dist/index.js",
@@ -19,7 +19,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dalenguyen/typescript-package-starter.git"
+    "url": "git+https://github.com/rachmad-s/test-packages.git"
   },
   "devDependencies": {
     "@types/chai": "^4.2.22",
