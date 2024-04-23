@@ -1,5 +1,5 @@
 {
-  "name": "test-packages",
+  "name": "@rachmad-s/test-packages",
   "version": "1.1.0",
   "description": "TypeScript boilerplate for NPM or Github Packages",
   "main": "dist/index.js",
